@@ -1,2 +1,8 @@
-# web-scraper
-A simple Python web scraper using BeautifulSoup.
+# Web Scraper
+
+A simple web scraper built with Python and BeautifulSoup.
+
+## How to Use
+1. Install dependencies:
+   ```bash
+   pip install beautifulsoup4 requests
